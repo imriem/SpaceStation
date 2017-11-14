@@ -19,7 +19,7 @@ import turtle  # for images
 # TODO: Step 2 Where is the ISS?
 
 
-# TODO: Step 3 When will the ISS be overhead?  Note: Change form Houston to Roseville
+# TODO: Step 3 When will the ISS be overhead?  Note: Change from Houston to Roseville
 
 
 # TODO: Step 4 Rewrite the program in a format that uses functions
