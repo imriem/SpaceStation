@@ -9,9 +9,9 @@
 #     Tests -   The program runs as described in the specifications without errors(passes all tests).
 #
 
-import json  # to interpret JSON data from a web service
-import urllib.request  # to load data from a specific web service api
-import turtle  # for images
+import json
+import turtle
+import urllib.request
 
 # TODO: Step 1 Who is in space?
 
